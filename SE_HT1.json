@@ -1,18 +1,18 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-pon.mp3"},
-    "26":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-pon.mp3"},
-    "27":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-kan.mp3"},
-    "28":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-kan.mp3"},
-    "29":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-chii.mp3"},
-    "30":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-chii.mp3"},
-    "31":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-riichi.mp3"},
-    "32":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-riichi.mp3"},
-    "33":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-ron.mp3"},
-    "34":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-ron.mp3"},
-    "35":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-tsumo.mp3"},
-    "36":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action-tsumo.mp3"},
-    "41":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/gameend-yakuman.mp3"}
+    "25":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_pon.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_kan.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_chii.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_chii.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_riichi.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_riichi.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_ron.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_tsumo.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/action_tsumo.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/teitnah/tenhou-se-and-bg/master/Yumeko_Jabami/gameend_yakuman.mp3"}
   }
 }
